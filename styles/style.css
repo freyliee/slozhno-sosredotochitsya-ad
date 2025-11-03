@@ -311,7 +311,6 @@
   .content__section_type_why {
     grid-template-columns: 33% 67%;
     gap: 20px;
-    padding-inline-end: 20px;
   }
 
   .content__section-title_size_narrow {
